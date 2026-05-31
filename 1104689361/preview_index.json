@@ -1,7 +1,7 @@
 {
   "qq_number": "241573142",
   "group_number": "1104689361",
-  "updated_at": "2026-05-30T11:48:42+00:00",
+  "updated_at": "2026-05-31T03:21:43+00:00",
   "skins": [
     {
       "name": "鱼の小羊咩咩",
@@ -14,6 +14,12 @@
       "file": "我保证我是天使只是偶尔坏.bdi",
       "thumb": "我保证我是天使只是偶尔坏.bdi_py_26_light_thumb.png",
       "full": "我保证我是天使只是偶尔坏.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "我保证我是天使只是偶尔坏.bds",
+      "thumb": "我保证我是天使只是偶尔坏.bds_py_26_light_thumb.png",
+      "full": "我保证我是天使只是偶尔坏.bds_py_26_light_thumb.png"
     }
   ]
 }
