@@ -1,7 +1,7 @@
 {
   "qq_number": "241573142",
   "group_number": "1104689361",
-  "updated_at": "2026-07-26T03:55:00+00:00",
+  "updated_at": "2026-07-26T03:58:30+00:00",
   "skins": [
     {
       "name": "鱼の小羊咩咩",
@@ -50,6 +50,12 @@
       "file": "鱼の純白の氷.bdi",
       "thumb": "鱼の純白の氷.bdi_py_26_light_thumb.png",
       "full": "鱼の純白の氷.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "鱼の純白の氷.bds",
+      "thumb": "鱼の純白の氷.bds_py_26_light_thumb.png",
+      "full": "鱼の純白の氷.bds_py_26_light_thumb.png"
     }
   ]
 }
